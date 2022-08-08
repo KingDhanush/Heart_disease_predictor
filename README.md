@@ -1,2 +1,3 @@
 # Heart_disease_predictor
-Using Regression models to predict whether a person has heart disease.
+Predicted patient's stroke severity based on their prior medical history and biological details.
+Gathered primary patient data from internet to train several models and understand their performance metrics on the dataset.
